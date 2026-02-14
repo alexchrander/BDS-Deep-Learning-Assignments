@@ -11,6 +11,8 @@ BDS-Deep-Learning-Assignments/
 │
 ├── Assignment1/
 │   └── SGD Mechanics & Attention Context
+├── Assignment2/
+│   └── Green Patent Detection (PatentSBERTa)
 │
 └── README.md
 ```
