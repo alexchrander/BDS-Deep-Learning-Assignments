@@ -1,0 +1,8 @@
+# Large data files
+*.npy
+*.parquet
+
+# Folders
+patent_sberta_finetuned/
+results/
+wandb/
