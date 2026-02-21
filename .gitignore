@@ -1,0 +1,13 @@
+# Large data files
+*.npy
+*.pkl
+*.parquet
+
+# Environment files
+*.env
+
+# Logs and checkpoints
+*.lock
+
+# Models
+models/

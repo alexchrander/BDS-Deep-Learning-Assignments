@@ -1,0 +1,32 @@
+[project]
+name = "green-patent-detection"
+version = "0.1.0"
+description = "Green patent classifier using PatentSBERTa with Active Learning and HITL"
+requires-python = ">=3.10"
+
+dependencies = [
+    "torch>=2.2.0",
+    "sentence-transformers>=3.0.0",
+    "transformers>=4.40.0",
+    "datasets>=2.19.0",
+    "accelerate>=0.30.0",
+
+    "scikit-learn>=1.4.0",
+
+    "pandas>=2.2.0",
+    "pyarrow>=15.0.0",
+    "numpy>=1.26.0",
+
+    "langchain>=0.2.0",
+    "langchain-openai>=0.1.0",
+
+    "huggingface-hub>=0.23.0",
+
+    "ipykernel>=6.29.0",
+    "ipywidgets>=8.1.0",
+    "tqdm>=4.66.0",
+
+    "vllm>=0.4.0",
+
+    "python-dotenv>=1.0.0",
+]
