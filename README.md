@@ -13,6 +13,8 @@ BDS-Deep-Learning-Assignments/
 │   └── SGD Mechanics & Attention Context
 ├── Assignment2/
 │   └── Green Patent Detection (PatentSBERTa)
+├── Assignment3/
+│   └── Green Patent Detection: Advanced Architectures (Agents vs. QLoRA)
 │
 └── README.md
 ```
